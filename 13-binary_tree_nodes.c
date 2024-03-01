@@ -1,6 +1,7 @@
 #include "binary_trees.h"
 /**
- * binary_tree_nodes - Function's That Returns # of Node's in a tree with Children
+ * binary_tree_nodes - Function's That Returns #
+ * Of Node's in a tree with Children
  * @tree: tree to check
  * Return: number of nodes with children
  */
