@@ -1,7 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_insert_left - Insert's a node into another node's left-child role.
+ * binary_tree_insert_left - Insert's a node into another
+ *  Node's left-child role.
  * @parent: The node's Pointer Where the left-child should be Inserted
  * @value: Value to be store in the new node
  *
