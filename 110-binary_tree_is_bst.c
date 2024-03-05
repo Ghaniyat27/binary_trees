@@ -1,4 +1,4 @@
-i#include "binary_trees.h"
+#include "binary_trees.h"
 
 /**
  * binary_tree_is_bst - checks if a binary tree is a valid Binary Search Tree
@@ -15,7 +15,7 @@ int binary_tree_is_bst(const binary_tree_t *tree)
 }
 
 /**
- * btib_helper - Check's if a Binary tree is a Valid binary Search Tree
+ * btib_helper - checks if a binary tree is a valid Binary Search Tree
  * @tree: a pointer to the root node of the tree to check
  * @min: Lower bound of checked nored
  * @max: Upper bound of checked nodes
